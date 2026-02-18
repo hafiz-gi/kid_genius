@@ -1,4 +1,4 @@
-# KidGenius - Where Learning Becomes an Adventure!
+# KidGenius
 🌟 KidGenius - Where Learning Becomes an Adventure! 🌟
 
 Transform screen time into brain time! KidGenius is the ultimate educational playground designed for curious minds ages 3-8. Join Genny the Owl on an exciting journey through colorful worlds of Math, Reading, Science, and Art!
