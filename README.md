@@ -18,6 +18,11 @@ Each child gets a personalized learning path that adapts to their skill level. W
 
 Track progress across subjects, celebrate achievements together, and witness real growth. With vibrant animations, cheerful sounds, and encouraging feedback, learning feels like pure fun!
 
+## 📸 Screenshots
+  <img src="images/kid genius.png"/>
+  <img src="images/kid genius mockups.png"/>
+
+
 ## 🛠️ Tech Stack
 - Flutter
 - Firebase
